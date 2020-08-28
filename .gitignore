@@ -1,0 +1,16 @@
+### macOS
+*.DS_Store
+
+### PyCharm
+.idea/
+
+### Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+
+### Project specifics
+bin/
+*.zip
+dist
